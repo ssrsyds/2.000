@@ -4,7 +4,7 @@ const cn = {
   WIP: "该功能仍在开发中……",
   Error: {
     Unauthorized:
-      "您好,该程序为[AI百晓生](http://aai.yjie.fun/)会员用户专享，邀请码在个人信息获取，获取后请打开下方设置,验证内部邀请码后使用",
+      "本程序基于ChatGPT开发的智能问答服务,首次使用需获取授权码激活设备方可使用，[点击加入官方群](http://dy.yjie.fun/1.jpg)，【AI使用效果预览】[立即预览](http://v.yjie.fun/zs/)，安卓可下载软件试用[立即下载](http://dy.yjie.fun/app/)",
   },
   ChatItem: {
     ChatItemCount: (count: number) => `${count} 条对话`,
@@ -96,11 +96,11 @@ const cn = {
     },
 
     Update: {
-      Version: (x: string) => `轻工具分享`,
-      IsLatest: "轻工具分享",
+      Version: (x: string) => `授权码获取`,
+      IsLatest: "授权码获取",
       CheckUpdate: "加载",
       IsChecking: "正在加载中...",
-      FoundUpdate: (x: string) => `分享好用免费的轻工具`,
+      FoundUpdate: (x: string) => `加入官方群获取最新授权码`,
       GoToUpdate: "立即前往",
     },
     SendKey: "发送键",
