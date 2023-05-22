@@ -4,7 +4,7 @@ const cn = {
   WIP: "该功能仍在开发中……",
   Error: {
     Unauthorized:
-      "本程序基于ChatGPT开发的智能问答服务,首次使用需获取授权码激活设备方可使用，[点击加入官方群](http://dy.yjie.fun/1.jpg)，【AI使用效果预览】[立即预览](http://v.yjie.fun/zs/)，安卓可下载软件试用[立即下载](http://dy.yjie.fun/app/)",
+      "本程序基于ChatGPT开发的智能问答服务,首次使用需获取授权码激活设备方可使用，[点击加入官方群](http://dy.yjie.fun/1.jpg)，【AI使用效果预览】[立即预览](http://v.yjie.fun/zs/)",
   },
   ChatItem: {
     ChatItemCount: (count: number) => `${count} 条对话`,
