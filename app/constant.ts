@@ -1,10 +1,10 @@
 export const OWNER = "Yidadaa";
 export const REPO = "ChatGPT-Next-Web";
-export const REPO_URL = `http://12322.yjie.fun/`;
-export const ISSUE_URL = `http://12322.yjie.fun/`;
+export const REPO_URL = `http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=-2hOLfJAjw-w48dddpiWC5s41CrKr1be&authKey=xonVSvEmcS70vAHiy%2BWHAFI%2FjLMUEL3JFS0H%2FtC7APz19XIZ1hEEadWK2fKincE3&noverify=0&group_code=687146861`;
+export const ISSUE_URL = `http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=-2hOLfJAjw-w48dddpiWC5s41CrKr1be&authKey=xonVSvEmcS70vAHiy%2BWHAFI%2FjLMUEL3JFS0H%2FtC7APz19XIZ1hEEadWK2fKincE3&noverify=0&group_code=687146861`;
 export const UPDATE_URL = `${REPO_URL}#keep-updated`;
-export const FETCH_COMMIT_URL = `http://12322.yjie.fun/`;
-export const FETCH_TAG_URL = `http://12322.yjie.fun/`;
+export const FETCH_COMMIT_URL = `http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=-2hOLfJAjw-w48dddpiWC5s41CrKr1be&authKey=xonVSvEmcS70vAHiy%2BWHAFI%2FjLMUEL3JFS0H%2FtC7APz19XIZ1hEEadWK2fKincE3&noverify=0&group_code=687146861`;
+export const FETCH_TAG_URL = `http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=-2hOLfJAjw-w48dddpiWC5s41CrKr1be&authKey=xonVSvEmcS70vAHiy%2BWHAFI%2FjLMUEL3JFS0H%2FtC7APz19XIZ1hEEadWK2fKincE3&noverify=0&group_code=687146861`;
 export const RUNTIME_CONFIG_DOM = "danger-runtime-config";
 
 export enum Path {
